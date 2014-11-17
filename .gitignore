@@ -1,0 +1,6 @@
+# History files
+.Rhistory
+.RData
+
+# knitr cache
+.cache/
